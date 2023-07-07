@@ -1,0 +1,5 @@
+com\ev2Colegio\Colegio\CursoRepository.class
+com\ev2Colegio\Colegio\Profesor.class
+com\ev2Colegio\Colegio\ColegioApplication.class
+com\ev2Colegio\Colegio\SinDbController.class
+com\ev2Colegio\Colegio\ConDbController.class
